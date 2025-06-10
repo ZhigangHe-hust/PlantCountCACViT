@@ -24,9 +24,9 @@ This project is pre-trained on the basis of the optimal model of CACViT, and the
 
 ## 3.Installation
 
-**Python：**3.8.18
+**Python：** 3.8.18
 
-**GPU：**RTX3090
+**GPU：** RTX3090
 
 ```bash
 pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/
