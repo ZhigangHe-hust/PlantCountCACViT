@@ -63,7 +63,6 @@ python test.py
 <a href="https://pan.quark.cn/s/aaa63b751b19" title="Best Model">Best Model</a>，Extraction code：**QDVx**
 
 The test results of the Best Model on the testdata of the PlantCountDataset:
-<div align="center">
 |         Metrics          |     Values      |
 | :----------------------: | :-------------: |
 |           MAE            |      5.25       |
@@ -73,4 +72,3 @@ The test results of the Best Model on the testdata of the PlantCountDataset:
 |            R2            |      0.95       |
 | Average FLOPs per sample | 449.8607 GFLOPs |
 |       Testing time       |       57s       |
-</div>
