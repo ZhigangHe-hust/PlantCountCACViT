@@ -68,13 +68,46 @@ python test.py
 
 最优模型权重在本项目的植物计数数据集上的测试集上的测试结果为：
 
-|         指标名称         |    指标数值     |
-| :----------------------: | :-------------: |
-|           MAE            |      5.25       |
-|           RMSE           |      7.37       |
-|           rMAE           |      0.42       |
-|          rRMSE           |      0.44       |
-|            R2            |      0.95       |
-| Average FLOPs per sample | 449.8607 GFLOPs |
-|       Testing time       |       57s       |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">指标</th>
+      <th align="center">数值</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">MAE</td>
+      <td align="center">5.25</td>
+    </tr>
+    <tr>
+      <td align="center">RMSE</td>
+      <td align="center">7.37</td>
+    </tr>
+    <tr>
+      <td align="center">rMAE</td>
+      <td align="center">0.42</td>
+    </tr>
+    <tr>
+      <td align="center">rRMSE</td>
+      <td align="center">0.44</td>
+    </tr>
+    <tr>
+      <td align="center">R2</td>
+      <td align="center">0.95</td>
+    </tr>
+    <tr>
+      <td align="center">Average FLOPs per sample</td>
+      <td align="center">449.8607 GFLOPs</td>
+    </tr>
+    <tr>
+      <td align="center">Testing time</td>
+      <td align="center">57s</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
