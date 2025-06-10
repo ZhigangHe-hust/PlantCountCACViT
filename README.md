@@ -7,7 +7,7 @@
   <a href="./README_CN.md">简体中文</a>
 </div>
 
-
+![image text](https://github.com/ZhigangHe-hust/PlantCountCACViT/blob/main/Figs/fig1.png)
 
 ## 1.Introduction
 
