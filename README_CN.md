@@ -2,13 +2,13 @@
     <h1 align="center">PlantCountCACViT</h1>
 </p>
 
+![image text](https://github.com/ZhigangHe-hust/PlantCountCACViT/blob/main/Figs/fig1.png)
 
 <div align="center">
   <a href="./README.md">English</a> | 
   <a href="./README_CN.md">简体中文</a>
 </div>
 
-![image text](https://github.com/ZhigangHe-hust/PlantCountCACViT/blob/main/Figs/fig1.png)
 
 ## 一、简介
 
