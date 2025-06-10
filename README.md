@@ -2,7 +2,7 @@
     <h1 align="center">PlantCountCACViT</h1>
 </p>
 
-<div style="text-align:center">
+<div align="center">
   <a href="./README.md">English</a> | 
   <a href="./README_CN.md">简体中文</a>
 </div>
