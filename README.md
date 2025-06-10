@@ -2,10 +2,12 @@
     <h1 align="center">PlantCountCACViT</h1>
 </p>
 
-<br>
-<div align="center">
-English | [简体中文](README_CN.md)
+<div style="text-align:center">
+  <a href="./README.md">English</a> | 
+  <a href="./README_CN.md">简体中文</a>
 </div>
+
+
 
 ## 1.Introduction
 
